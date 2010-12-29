@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="save_button">Save this location</string>
+    <string name="previous_locations_button">View saved locations</string>
+    <string name="description_dialog_title">Location description</string>
+    <string name="description_dialog_msg">Provide a description for this location</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_button">Ok</string>
+    <string name="latitude_longitude">latitude: %1$s \nlongitude: %2$s</string>
+    <string name="current_location">Current location:</string>
+    <string name="unknown_location">Unknown</string>
+    <string name="previous_locations_title"><b><u>Saved locations</u></b></string>
+    <string name="no_previous_locations">No saved locations</string>
+    <string name="longitude">"longitude: "</string>
+    <string name="latitude">"latitude: "</string>
+    <string name="description">"description: "</string>
+    <string name="last_known_location">Last known location:</string>
+    <string name="no_location_information">No location information to save</string>
+</resources>
